@@ -43,7 +43,7 @@ jsonpickle==1.2
 kiwisolver==1.0.1
 lazy-object-proxy==1.4.1
 macholib==1.11
-markdown2==2.3.8
+markdown2==2.4.0
 MarkupSafe==1.1.0
 matplotlib==3.0.3
 mccabe==0.6.1
